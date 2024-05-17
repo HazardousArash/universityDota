@@ -1,0 +1,3 @@
+﻿  Teacher.cpp
+E:\CPP\university\university\university\Teacher.cpp(26,9): warning C4101: 'courseIndex': unreferenced local variable
+  university.vcxproj -> E:\CPP\university\university\x64\Debug\university.exe
